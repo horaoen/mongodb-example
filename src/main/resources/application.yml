@@ -1,0 +1,8 @@
+spring:
+  data:
+    mongodb:
+      host: 42.192.5.249
+      port: 27017
+      database: test
+      username: tester
+      password: tester
